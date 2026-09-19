@@ -9,14 +9,20 @@
     "bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
     "3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk"
   ],
-  "updatedAt": "2026-09-19T20:07:00Z",
+  "updatedAt": "2026-09-19T21:13:00Z",
   "source": "blockstream.info",
+  "fallbackSource": "mempool.space",
   "baselineBtc": 598.50122489,
   "confirmedBtc": 598.50437288,
   "pendingDeltaBtc": 0.00025199,
+  "fundedTxoSumSats": 2877899613626,
+  "spentTxoSumSats": 2818049176338,
   "txCount": 1449,
+  "mempoolTxCount": 51,
+  "mempoolSpentTxoCount": 0,
   "thresholdBtc": 0.01,
   "federationThresholdBtc": 0.01,
+  "hopThresholdBtc": 0.01,
   "role": "observed_inventory",
   "actAsSpendableVault": false,
   "status": "HOLDING",
@@ -25,5 +31,5 @@
   "destinations": [],
   "gateKeeper": "Blackpope77-48",
   "vaultEffect": "observe_only",
-  "note": "Observed inventory only. Federation threshold 0.01 BTC. Not spendable vault capital. Alert only if >= hopThreshold 0.01 BTC leaves to a dest that is not federation and not allowlisted 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
+  "note": "Observed inventory only. Federation threshold 0.01 BTC. Not spendable vault capital. Alert only if >= hopThreshold 0.01 BTC leaves to a dest that is not federation and not allowlisted 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk. Ignore dust/OP_RETURN under 0.01 BTC. Do not credit a ledger. Do not treat as rail B reserve."
 }
