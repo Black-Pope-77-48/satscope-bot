@@ -1,0 +1,35 @@
+{
+  "rail": "D",
+  "pipeline": "digital-bridge",
+  "id": "cursor-mcp-confirm",
+  "class": "confirm_plane",
+  "role": "observed_sensors",
+  "actAsSpendableVault": false,
+  "tickAt": "2026-09-20T00:24:00Z",
+  "status": "CONFIRMED",
+  "remotes": {
+    "user-X": {
+      "status": "LIVE",
+      "username": "EmezueOkec14434",
+      "id": "1935692580731396096",
+      "credits": 14.51,
+      "webhooks": 0
+    },
+    "user-Gmail": {
+      "status": "LIVE",
+      "draftThreads": 286,
+      "maySend": false
+    },
+    "user-Antimetal": {
+      "status": "DEGRADED",
+      "error": "401 Invalid API key"
+    }
+  },
+  "confirmedThisTick": {
+    "railA": "HOLDING",
+    "railAConfirmedBtc": 598.50437288,
+    "railBGate": "FREEZE",
+    "railC": "IDLE"
+  },
+  "note": "Confirm plane only. Does not spend. Alert if >= 0.01 BTC leaves rail A to a dest that is not federation and not 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
+}
