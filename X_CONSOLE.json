@@ -1,0 +1,43 @@
+{
+  "rail": "C",
+  "pipeline": "digital-bridge",
+  "id": "x-ads-console",
+  "class": "licensed_venue_spend_watch",
+  "role": "observed_budget",
+  "actAsSpendableVault": false,
+  "creditLedger": false,
+  "fundVault": false,
+  "gateKeeper": "Blackpope77-48",
+  "connected": true,
+  "connector": "X Ads",
+  "tickAt": "2026-09-20T00:16:00Z",
+  "account": {
+    "id": "18ce54e9ndf",
+    "name": "Okechukwu Emezue",
+    "approvalStatus": "ACCEPTED"
+  },
+  "funding": {
+    "id": "ove0f",
+    "type": "CREDIT_CARD",
+    "currency": "USD",
+    "ableToFund": true,
+    "fundedAmountLocalMicro": 0
+  },
+  "inventory": {
+    "campaignCount": 0,
+    "lineItemCount": 0,
+    "adCount": 0
+  },
+  "budget": {
+    "dailyCapUsd": null,
+    "spentUsdThisTick": 0,
+    "status": "NO_BUDGET_SET"
+  },
+  "policy": {
+    "createCampaign": "FREEZE",
+    "activateCampaign": "FREEZE",
+    "neverBroadcast": true
+  },
+  "status": "IDLE",
+  "note": "Observe only. Do not create or activate ads. Not rail B reserve. Alert if spend with no cap or spend over cap."
+}
