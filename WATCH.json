@@ -9,10 +9,10 @@
     "bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
     "3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk"
   ],
-  "updatedAt": "2026-09-20T10:17:00Z",
+  "updatedAt": "2026-09-20T11:01:00Z",
   "source": "blockstream.info",
   "fallbackSource": "mempool.space",
-  "sourceNote": "blockstream.info 200 chain_stats; later blockstream 429; mempool.space timeout. confirmed 598.50439510; prior tick 598.50437288; +2222 sats inbound dust confirmed; txs page no outgoing >= 0.01; mempool spent_txo_sum 0; pending inbound dust 0.00025199 ignored; no material leave this tick",
+  "sourceNote": "blockstream.info 200 chain_stats and /txs. confirmed 598.50439510; prior tick 598.50439510; funded_txo_sum 2877899615848 spent_txo_sum 2818049176338 unchanged; txs page 75 all IN dust/inscriptions; mempool spent_txo_sum 0 spent_txo_count 0; pending inbound dust 0.00025199 ignored; no outgoing >= 0.01 this tick",
   "baselineBtc": 598.50122489,
   "confirmedBtc": 598.50439510,
   "pendingDeltaBtc": 0.00025199,
