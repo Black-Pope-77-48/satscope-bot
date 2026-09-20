@@ -9,10 +9,10 @@
     "bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
     "3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk"
   ],
-  "updatedAt": "2026-09-20T07:17:00Z",
+  "updatedAt": "2026-09-20T08:03:00Z",
   "source": "blockstream.info",
   "fallbackSource": "mempool.space",
-  "sourceNote": "blockstream.info 200; mempool.space 200; no material leave this tick",
+  "sourceNote": "blockstream.info 200; txs page outgoing_count 0; mempool spent_txo_sum 0; no material leave this tick",
   "baselineBtc": 598.50122489,
   "confirmedBtc": 598.50437288,
   "pendingDeltaBtc": 0.00025199,
