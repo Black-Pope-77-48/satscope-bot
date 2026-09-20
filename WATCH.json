@@ -9,10 +9,10 @@
     "bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
     "3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk"
   ],
-  "updatedAt": "2026-09-20T15:17:00Z",
+  "updatedAt": "2026-09-20T15:20:00Z",
   "source": "blockstream.info",
   "fallbackSource": "mempool.space",
-  "sourceNote": "blockstream.info 200 chain_stats + txs. confirmed 598.50439510 (unchanged vs 14:38 local and GitHub 40f8925); funded_txo_sum 2877899615848 spent_txo_sum 2818049176338; txCount 1450; txs first page outgoing_count 0; mempool spent_txo_sum 0 spent_txo_count 0; pending inbound dust 0.00025199 (blockstream 51 txs) ignored; later-page historical dust 10931 sats ignored; no material leave this tick",
+  "sourceNote": "blockstream.info 200 chain_stats; mempool.space 200 chain_stats match. confirmed 598.50439510; funded_txo_sum 2877899615848 spent_txo_sum 2818049176338; txCount 1450; mempool spent_txo_sum 0 spent_txo_count 0; pending inbound dust blockstream 0.00025199 (51 txs) mempool 0.00024649 (50 txs) ignored; first-page txs receiving dust/OP_RETURN only; no material leave this tick",
   "baselineBtc": 598.50122489,
   "confirmedBtc": 598.50439510,
   "pendingDeltaBtc": 0.00025199,
