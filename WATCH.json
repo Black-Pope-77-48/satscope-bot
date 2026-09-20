@@ -9,7 +9,7 @@
     "bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
     "3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk"
   ],
-  "updatedAt": "2026-09-20T04:10:00Z",
+  "updatedAt": "2026-09-20T05:05:00Z",
   "source": "blockstream.info",
   "fallbackSource": "mempool.space",
   "baselineBtc": 598.50122489,
@@ -19,7 +19,9 @@
   "spentTxoSumSats": 2818049176338,
   "txCount": 1449,
   "mempoolTxCount": 51,
+  "mempoolFundedTxoSumSats": 25199,
   "mempoolSpentTxoCount": 0,
+  "mempoolSpentTxoSumSats": 0,
   "thresholdBtc": 0.01,
   "federationThresholdBtc": 0.01,
   "hopThresholdBtc": 0.01,
