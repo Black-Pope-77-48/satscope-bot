@@ -1,0 +1,29 @@
+{
+  "bot": "GrokBot-bitcoin-101-study",
+  "pipeline": "digital-bridge",
+  "class": "study_plane",
+  "rail": "F",
+  "skill": "bitcoin-101-study",
+  "updatedAt": "2026-09-23T19:40:00Z",
+  "status": "STUDYING",
+  "currentModule": 0,
+  "currentLesson": "lesson-00-watch-vs-vault",
+  "labeledRowCount": 0,
+  "unlabeledRowCount": 6,
+  "trainMeaning": "labeled corpus judged by Blackpope77-48 — not weight fine-tune, not a trade bot",
+  "actAsSpendableVault": false,
+  "creditLedger": false,
+  "spend": "FREEZE",
+  "watchAddress": "bc1ql4mfu6aundtkksxklfajs2h3t9nzcd6gyqjlte",
+  "federation": "bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
+  "allowedDestinations": [
+    "bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
+    "3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk"
+  ],
+  "thresholdBtc": 0.01,
+  "lastWatchStatus": "HOLDING",
+  "lastWatchConfirmedBtc": 598.50439510,
+  "gateKeeper": "Blackpope77-48",
+  "vaultEffect": "observe_only",
+  "note": "Study plane trains on watch data. Does not spend rail A. Alert only if >= 0.01 BTC leaves to a dest that is not federation and not allowlisted 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
+}
