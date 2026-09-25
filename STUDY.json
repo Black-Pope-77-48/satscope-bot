@@ -4,13 +4,13 @@
   "class": "study_plane",
   "rail": "F",
   "skill": "bitcoin-101-study",
-  "updatedAt": "2026-09-24T19:07:46Z",
+  "updatedAt": "2026-09-25T19:07:35Z",
   "status": "STUDYING",
   "currentModule": 1,
   "currentLesson": "lesson-01-units-utxo",
   "lessonsWritten": 2,
   "labeledRowCount": 3,
-  "unlabeledRowCount": 9,
+  "unlabeledRowCount": 12,
   "trainMeaning": "labeled corpus judged by Blackpope77-48 — not weight fine-tune, not a trade bot",
   "actAsSpendableVault": false,
   "creditLedger": false,
@@ -24,8 +24,8 @@
   "thresholdBtc": 0.01,
   "lastWatchStatus": "HOLDING",
   "lastWatchConfirmedBtc": 598.50439510,
-  "liveLabMempoolFundedSats": null,
+  "liveLabMempoolFundedSats": 14804,
   "gateKeeper": "Blackpope77-48",
   "vaultEffect": "observe_only",
-  "note": "Module 0 LEARNED. Lesson 01 open. Public fetch rate-limited. Confirmed carried forward 598.50439510. Live lab written. Alert only if >= 0.01 BTC leaves to a dest that is not federation and not allowlisted 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
+  "note": "Module 0 LEARNED. Lesson 01 open. blockstream.info 200 confirmed 598.50439510. Live lab written. F-0013..F-0015 unlabeled. Alert only if >= 0.01 BTC leaves to a dest that is not federation and not allowlisted 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
 }
