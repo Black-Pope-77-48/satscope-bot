@@ -1,20 +1,20 @@
 {
   "bot": "ScopeBot",
-  "updatedAt": "2026-09-27T18:28:32Z",
+  "updatedAt": "2026-09-27T22:16:06Z",
   "source": "https://mempool.space",
   "github": "Black-Pope-77-48/satscope-bot",
   "fork": "Black-Pope-77-48/mempool",
   "fees": {
-    "fastestFee": 1,
+    "fastestFee": 2,
     "halfHourFee": 1,
     "hourFee": 1,
     "economyFee": 1,
     "minimumFee": 1
   },
   "mempool": {
-    "count": 77552,
-    "vsize": 41566205,
-    "totalFee": 7316120
+    "count": 79241,
+    "vsize": 41673729,
+    "totalFee": 8496467
   },
   "condition": "empty"
 }
