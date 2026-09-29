@@ -9,7 +9,7 @@
     "bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
     "3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk"
   ],
-  "updatedAt": "2026-09-28T19:12:00Z",
+  "updatedAt": "2026-09-29T19:12:00Z",
   "source": "blockstream.info",
   "fallbackSource": "mempool.space",
   "sourceNote": "blockstream.info 200 this tick. funded_txo_sum 2877899618848 spent_txo_sum 2818049176338; confirmed 598.50442510 BTC; txCount 1453; mempool funded 14369 sats ignored; no material leave this tick",
