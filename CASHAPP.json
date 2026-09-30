@@ -1,0 +1,56 @@
+{
+  "rail": "G",
+  "pipeline": "digital-bridge",
+  "id": "cash-app-venue",
+  "class": "licensed_venue_cash",
+  "role": "observed_venue_not_vault",
+  "actAsSpendableVault": false,
+  "creditLedger": false,
+  "fundVault": false,
+  "gateKeeper": "Blackpope77-48",
+  "signers": ["Blackpope77-48", "Black-Pope-77-48"],
+  "leaveRequires": "explicit Blackpope77-48 sign-off that turn",
+  "actionGate": "draft_only",
+  "connected": false,
+  "connector": "none — Cash App / Square not in Grok connector catalog",
+  "vendor": "Block Inc. (Cash App + Square)",
+  "tickAt": "2026-09-30T16:47:00Z",
+  "status": "DISCONNECTED",
+  "liveCheckout": "FREEZE",
+  "livePayout": "FREEZE",
+  "onChainWithdraw": "FREEZE",
+  "fundFromRailA": "REJECT",
+  "consumer": {
+    "cashtag": null,
+    "depositAddress": null,
+    "depositAddressClass": "cashapp_p2wpkh_rotating",
+    "lightningInvoice": null,
+    "p2pCashtagBtc": "DISCONTINUED_2024-12-20"
+  },
+  "merchant": {
+    "channel": "cash_app_pay",
+    "applicationId": null,
+    "locationId": null,
+    "accessTokenPresent": false,
+    "skuHook": "bridge-channel $99/mo USD venue path"
+  },
+  "allowlistPolicy": {
+    "autoAllowlistCashAppAddress": false,
+    "railAAllowedDestinationsUnchanged": [
+      "bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
+      "3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk"
+    ],
+    "thresholdBtc": 0.01
+  },
+  "policy": {
+    "createPayment": "FREEZE",
+    "payoutToCashApp": "FREEZE",
+    "moveRailAToCashApp": "REJECT",
+    "neverTreatAsRailBReserve": true
+  },
+  "balances": {
+    "usdObserved": 0,
+    "btcObserved": 0
+  },
+  "statusNote": "DISCONNECTED. No cashtag, no deposit address, no Square applicationId. Rail A leftover is not Cash App float. Alert only if >= 0.01 BTC leaves operator address to a dest that is not federation and not 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
+}
