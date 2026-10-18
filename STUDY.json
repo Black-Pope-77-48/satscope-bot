@@ -2,24 +2,24 @@
   "rail": "F",
   "id": "bitcoin-101-study",
   "gateKeeper": "Blackpope77-48",
-  "tickAt": "2026-10-16T19:13:00Z",
+  "tickAt": "2026-10-18T19:15:00Z",
   "status": "STUDYING",
   "currentModule": 1,
   "currentLesson": "lesson-01-units-utxo",
   "labeledRowCount": 3,
-  "unlabeledRowCount": 75,
+  "unlabeledRowCount": 78,
   "spend": "FREEZE",
   "actAsSpendableVault": false,
   "creditLedger": false,
   "watch": {
     "address": "bc1ql4mfu6aundtkksxklfajs2h3t9nzcd6gyqjlte",
     "status": "HOLDING",
-    "confirmedBtc": 598.5044551,
-    "confirmedSats": 59850445510,
-    "fundedTxoSumSats": 2877899621848,
+    "confirmedBtc": 598.50456628,
+    "confirmedSats": 59850456628,
+    "fundedTxoSumSats": 2877899632966,
     "spentTxoSumSats": 2818049176338,
-    "txCount": 1456,
-    "mempoolFundedSats": 21995,
+    "txCount": 1479,
+    "mempoolFundedSats": 10877,
     "mempoolSpentSats": 0,
     "source": "blockstream.info 200",
     "role": "observed_inventory"
@@ -27,9 +27,9 @@
   "vaultGate": "FREEZE",
   "depositAddress": null,
   "newCorpus": [
-    "F-0076",
-    "F-0077",
-    "F-0078"
+    "F-0079",
+    "F-0080",
+    "F-0081"
   ],
   "note": "Observed inventory only. Not capital. No leave. Alert only if >= 0.01 BTC leaves to a dest that is not federation and not 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
 }
