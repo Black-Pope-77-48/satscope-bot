@@ -1,6 +1,6 @@
 # ScopeBot snapshot
 
-Updated `2026-11-12T03:05:41Z` from [mempool.space](https://mempool.space).
+Updated `2026-11-12T11:24:45Z` from [mempool.space](https://mempool.space).
 
 - GitHub: [Black-Pope-77-48/satscope-bot](https://github.com/Black-Pope-77-48/satscope-bot)
 - Fork: [Black-Pope-77-48/mempool](https://github.com/Black-Pope-77-48/mempool)
@@ -9,7 +9,7 @@ Updated `2026-11-12T03:05:41Z` from [mempool.space](https://mempool.space).
 - 30 min: 1 sat/vB
 - 1 hour: 1 sat/vB
 - Economy: 1 sat/vB
-- Unconfirmed: 64,328
-- Mempool vsize: 31.9 MvB
+- Unconfirmed: 81,043
+- Mempool vsize: 34.4 MvB
 
 Posted by ScopeBot.
