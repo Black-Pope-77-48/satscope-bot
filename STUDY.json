@@ -2,12 +2,12 @@
   "rail": "F",
   "id": "bitcoin-101-study",
   "gateKeeper": "Blackpope77-48",
-  "tickAt": "2026-11-12T20:18:00Z",
+  "tickAt": "2026-11-13T20:17:00Z",
   "status": "STUDYING",
   "currentModule": 1,
   "currentLesson": "lesson-01-units-utxo",
   "labeledRowCount": 3,
-  "unlabeledRowCount": 153,
+  "unlabeledRowCount": 156,
   "spend": "FREEZE",
   "actAsSpendableVault": false,
   "creditLedger": false,
@@ -26,6 +26,6 @@
   },
   "vaultGate": "FREEZE",
   "depositAddress": null,
-  "newCorpus": ["F-0154", "F-0155", "F-0156"],
+  "newCorpus": ["F-0157", "F-0158", "F-0159"],
   "note": "Observed inventory only. Not capital. No leave. Alert only if >= 0.01 BTC leaves to a dest that is not federation and not 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
 }
