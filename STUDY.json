@@ -2,12 +2,12 @@
   "rail": "F",
   "id": "bitcoin-101-study",
   "gateKeeper": "Blackpope77-48",
-  "tickAt": "2026-11-16T20:15:39Z",
+  "tickAt": "2026-11-17T20:23:00Z",
   "status": "STUDYING",
   "currentModule": 1,
   "currentLesson": "lesson-01-units-utxo",
   "labeledRowCount": 3,
-  "unlabeledRowCount": 165,
+  "unlabeledRowCount": 168,
   "spend": "FREEZE",
   "actAsSpendableVault": false,
   "creditLedger": false,
@@ -20,16 +20,12 @@
     "spentTxoSumSats": 2818049176338,
     "txCount": 1504,
     "mempoolFundedSats": 320,
-    "mempoolSpentSats": 0,
-    "source": "blockstream.info 200",
-    "role": "observed_inventory"
+    "source": "blockstream.info 200"
   },
-  "vaultGate": "FREEZE",
-  "depositAddress": null,
-  "newCorpus": [
-    "F-0166",
-    "F-0167",
-    "F-0168"
-  ],
-  "note": "Observed inventory only. Not capital. No leave. Alert only if >= 0.01 BTC leaves to a dest that is not federation and not 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
+  "railB": {
+    "gate": "FREEZE",
+    "depositAddress": null
+  },
+  "lastDecision": "Live lab written. Confirmed 598.50468185 BTC unchanged vs 16 Nov. Module 1 still unlabeled. Corpus +F-0169..F-0171. Spend FREEZE. No leave.",
+  "note": "Observed inventory only. Not capital. Alert only if >= 0.01 BTC leaves to a dest that is not federation and not allowlisted 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
 }
