@@ -2,12 +2,12 @@
   "rail": "F",
   "id": "bitcoin-101-study",
   "gateKeeper": "Blackpope77-48",
-  "tickAt": "2026-11-17T20:23:00Z",
+  "tickAt": "2026-11-20T20:19:00Z",
   "status": "STUDYING",
   "currentModule": 1,
   "currentLesson": "lesson-01-units-utxo",
   "labeledRowCount": 3,
-  "unlabeledRowCount": 168,
+  "unlabeledRowCount": 174,
   "spend": "FREEZE",
   "actAsSpendableVault": false,
   "creditLedger": false,
@@ -26,6 +26,6 @@
     "gate": "FREEZE",
     "depositAddress": null
   },
-  "lastDecision": "Live lab written. Confirmed 598.50468185 BTC unchanged vs 16 Nov. Module 1 still unlabeled. Corpus +F-0169..F-0171. Spend FREEZE. No leave.",
+  "lastDecision": "Live lab written. Confirmed 598.50468185 BTC unchanged vs 19 Nov. Module 1 still unlabeled. Corpus +F-0175..F-0177. Spend FREEZE. No leave.",
   "note": "Observed inventory only. Not capital. Alert only if >= 0.01 BTC leaves to a dest that is not federation and not allowlisted 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
 }
