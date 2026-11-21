@@ -2,30 +2,36 @@
   "rail": "F",
   "id": "bitcoin-101-study",
   "gateKeeper": "Blackpope77-48",
-  "tickAt": "2026-11-20T20:19:00Z",
+  "tickAt": "2026-11-21T20:16:00Z",
   "status": "STUDYING",
   "currentModule": 1,
   "currentLesson": "lesson-01-units-utxo",
   "labeledRowCount": 3,
-  "unlabeledRowCount": 174,
+  "unlabeledRowCount": 177,
   "spend": "FREEZE",
-  "actAsSpendableVault": false,
-  "creditLedger": false,
-  "watch": {
+  "watchAnchor": {
     "address": "bc1ql4mfu6aundtkksxklfajs2h3t9nzcd6gyqjlte",
-    "status": "HOLDING",
-    "confirmedBtc": 598.50468185,
-    "confirmedSats": 59850468185,
-    "fundedTxoSumSats": 2877899644523,
-    "spentTxoSumSats": 2818049176338,
-    "txCount": 1504,
-    "mempoolFundedSats": 320,
-    "source": "blockstream.info 200"
+    "federation": "bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
+    "allowlist": [
+      "3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk"
+    ],
+    "thresholdBtc": 0.01,
+    "role": "observed_inventory",
+    "lastKnownStatus": "HOLDING",
+    "lastKnownConfirmedBtc": 598.50468185,
+    "liveLabAt": "2026-11-21T20:16:00Z",
+    "liveLabSource": "blockstream.info 200",
+    "liveLabMempoolFundedSats": 320
   },
-  "railB": {
-    "gate": "FREEZE",
-    "depositAddress": null
+  "lastDecision": {
+    "railA": "HOLDING",
+    "railBGate": "FREEZE",
+    "railC": "IDLE",
+    "railD": "CONFIRMED",
+    "railE": "PRE-REVENUE",
+    "railF": "STUDYING",
+    "reason": "Live lab written. Public fetch blockstream.info 200. Confirmed 598.50468185 BTC unchanged vs 20 Nov. Module 1 still unlabeled. Three new corpus rows F-0178..F-0180. Spend FREEZE. No leave.",
+    "at": "2026-11-21T20:16:00Z"
   },
-  "lastDecision": "Live lab written. Confirmed 598.50468185 BTC unchanged vs 19 Nov. Module 1 still unlabeled. Corpus +F-0175..F-0177. Spend FREEZE. No leave.",
-  "note": "Observed inventory only. Not capital. Alert only if >= 0.01 BTC leaves to a dest that is not federation and not allowlisted 3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk."
+  "updatedAt": "2026-11-21T20:16:00Z"
 }
