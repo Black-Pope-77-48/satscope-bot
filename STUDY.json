@@ -2,12 +2,12 @@
   "rail": "F",
   "id": "bitcoin-101-study",
   "gateKeeper": "Blackpope77-48",
-  "tickAt": "2026-11-23T20:18:00Z",
+  "tickAt": "2026-11-24T20:18:00Z",
   "status": "STUDYING",
   "currentModule": 1,
   "currentLesson": "lesson-01-units-utxo",
   "labeledRowCount": 3,
-  "unlabeledRowCount": 180,
+  "unlabeledRowCount": 183,
   "spend": "FREEZE",
   "watchAnchor": {
     "address": "bc1ql4mfu6aundtkksxklfajs2h3t9nzcd6gyqjlte",
@@ -18,10 +18,10 @@
     "thresholdBtc": 0.01,
     "role": "observed_inventory",
     "lastKnownStatus": "HOLDING",
-    "lastKnownConfirmedBtc": 598.50468185,
-    "liveLabAt": "2026-11-23T20:18:00Z",
-    "liveLabSource": "public blockstream.info page (API 429)",
-    "liveLabMempoolFundedSats": 320
+    "lastKnownConfirmedBtc": 598.50468495,
+    "liveLabAt": "2026-11-24T20:18:00Z",
+    "liveLabSource": "blockstream.info 200",
+    "liveLabMempoolFundedSats": 0
   },
   "lastDecision": {
     "railA": "HOLDING",
@@ -30,8 +30,8 @@
     "railD": "CONFIRMED",
     "railE": "PRE-REVENUE",
     "railF": "STUDYING",
-    "reason": "Live lab written. Public fetch rate-limited; page shows confirmed 598.50468185 BTC unchanged vs 21 Nov. Module 1 still unlabeled. Three new corpus rows F-0181..F-0183. Spend FREEZE. No leave.",
-    "at": "2026-11-23T20:18:00Z"
+    "reason": "Live lab written. blockstream.info 200 confirmed 598.50468495 BTC (+310 sats vs 23 Nov; spent unchanged). Module 1 still unlabeled. Three new corpus rows F-0184..F-0186. Spend FREEZE. No leave.",
+    "at": "2026-11-24T20:18:00Z"
   },
-  "updatedAt": "2026-11-23T20:18:00Z"
+  "updatedAt": "2026-11-24T20:18:00Z"
 }
