@@ -1,37 +1,25 @@
 {
   "rail": "F",
   "id": "bitcoin-101-study",
-  "gateKeeper": "Blackpope77-48",
-  "tickAt": "2026-11-24T20:18:00Z",
   "status": "STUDYING",
   "currentModule": 1,
   "currentLesson": "lesson-01-units-utxo",
+  "tickAt": "2026-11-25T20:16:00Z",
   "labeledRowCount": 3,
-  "unlabeledRowCount": 183,
+  "unlabeledRowCount": 186,
   "spend": "FREEZE",
   "watchAnchor": {
     "address": "bc1ql4mfu6aundtkksxklfajs2h3t9nzcd6gyqjlte",
-    "federation": "bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
-    "allowlist": [
-      "3KPfs8jQQWuWEaX4ozH6RQoqe5up7f4yPk"
-    ],
-    "thresholdBtc": 0.01,
-    "role": "observed_inventory",
     "lastKnownStatus": "HOLDING",
     "lastKnownConfirmedBtc": 598.50468495,
-    "liveLabAt": "2026-11-24T20:18:00Z",
-    "liveLabSource": "blockstream.info 200",
-    "liveLabMempoolFundedSats": 0
+    "liveLabAt": "2026-11-25T20:16:00Z",
+    "liveLabSource": "blockstream.info 200"
   },
   "lastDecision": {
     "railA": "HOLDING",
-    "railBGate": "FREEZE",
-    "railC": "IDLE",
-    "railD": "CONFIRMED",
-    "railE": "PRE-REVENUE",
     "railF": "STUDYING",
-    "reason": "Live lab written. blockstream.info 200 confirmed 598.50468495 BTC (+310 sats vs 23 Nov; spent unchanged). Module 1 still unlabeled. Three new corpus rows F-0184..F-0186. Spend FREEZE. No leave.",
-    "at": "2026-11-24T20:18:00Z"
+    "reason": "Live lab written. blockstream.info 200 confirmed 598.50468495 BTC (unchanged vs 24 Nov). Module 1 unlabeled. Corpus +F-0187..F-0189. Spend FREEZE. No leave.",
+    "at": "2026-11-25T20:16:00Z"
   },
-  "updatedAt": "2026-11-24T20:18:00Z"
+  "updatedAt": "2026-11-25T20:16:00Z"
 }
