@@ -4,22 +4,22 @@
   "status": "STUDYING",
   "currentModule": 1,
   "currentLesson": "lesson-01-units-utxo",
-  "tickAt": "2026-11-26T20:19:00Z",
+  "tickAt": "2026-11-27T20:19:00Z",
   "labeledRowCount": 3,
-  "unlabeledRowCount": 189,
+  "unlabeledRowCount": 192,
   "spend": "FREEZE",
   "watchAnchor": {
     "address": "bc1ql4mfu6aundtkksxklfajs2h3t9nzcd6gyqjlte",
     "lastKnownStatus": "HOLDING",
     "lastKnownConfirmedBtc": 598.50468495,
-    "liveLabAt": "2026-11-26T20:19:00Z",
+    "liveLabAt": "2026-11-27T20:19:00Z",
     "liveLabSource": "blockstream.info 200"
   },
   "lastDecision": {
     "railA": "HOLDING",
     "railF": "STUDYING",
-    "reason": "Live lab written. blockstream.info 200 confirmed 598.50468495 BTC (unchanged vs 25 Nov). Module 1 unlabeled. Corpus +F-0190..F-0192. Spend FREEZE. No leave.",
-    "at": "2026-11-26T20:19:00Z"
+    "reason": "Live lab written. blockstream.info 200 confirmed 598.50468495 BTC (unchanged vs 26 Nov). Module 1 unlabeled. Corpus +F-0193..F-0195. Spend FREEZE. No leave.",
+    "at": "2026-11-27T20:19:00Z"
   },
-  "updatedAt": "2026-11-26T20:19:00Z"
+  "updatedAt": "2026-11-27T20:19:00Z"
 }
